@@ -42,7 +42,7 @@ Then in the `Redirect URI` section, select `Web` and fill in `http://localhost:5
 
 Click `Register` to finish the registration.
 
-Please save your new application's **`Application (client) ID`** as **`Value[1]`** and **`Client secret`** as **`Value[2]`** for later use.
+Please save your new application's **`Application (client) ID`** as **`Value[1]`** ~~and **`Client secret`** as **`Value[2]`**~~ for later use.
 
 ### <font color="Olive">**3. Create a new certificate for you new application.**</font>
 
