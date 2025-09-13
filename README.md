@@ -1,6 +1,6 @@
 # **E5 Developer Renewer**
 
-![CICD](https://github.com/KKtheGhost/E5_Developer_Renew/actions/workflows/autoapi.yml/badge.svg?branch=master)
+[![Auto Api Task](https://github.com/2dgirlismywaifu/E5_Developer_Testing/actions/workflows/autoapi.yml/badge.svg)](https://github.com/2dgirlismywaifu/E5_Developer_Testing/actions/workflows/autoapi.yml)
 ![Repo Size](https://img.shields.io/github/repo-size/KKtheGhost/E5_Developer_Renew)
 ![Contributors](https://img.shields.io/github/contributors/KKtheGhost/E5_Developer_Renew)
 [![License: MIT](https://shields.io/badge/license-MIT-%23373737)](https://opensource.org/licenses/MIT)
