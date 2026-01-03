@@ -8,7 +8,7 @@ import json,sys,time
 # mail:     Mail.Read、Mail.ReadWrite、MailboxSettings.Read、MailboxSettings.ReadWrite
 # Remember to Click "Grant admin consent for <your tenant>" in the "API Permissions" page.
 
-path = sys.path[0]+r'/refresh_token.txt'
+path = sys.path[0]+r"/refresh_token.txt"
 call_count = 0
 api_list = [
     'https://graph.microsoft.com/v1.0/me/drive/root',
