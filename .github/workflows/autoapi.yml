@@ -24,11 +24,9 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: 3.8
-    - name: Install requests and jq
+    - name: Install dependencies and jq
       run: |
-        pip install requests
-        pip install pytz
-        pip install PyNaCl
+        pip install -r requirements.txt
         sudo apt install jq
         type -p curl >/dev/null || sudo apt install curl -y
         curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
